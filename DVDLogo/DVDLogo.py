@@ -4,7 +4,7 @@ import tkinter
 pygame.init()
 
 root = tkinter.Tk()
-size = width, height = int(root.winfo_screenwidth() - root.winfo_screenwidth()*0.2), int(root.winfo_screenheight() - root.winfo_screenheight()*0.2)
+size = width, height = 1600, 900 #int(root.winfo_screenwidth() - root.winfo_screenwidth()*0.2), int(root.winfo_screenheight() - root.winfo_screenheight()*0.2)
 speed = [2, 2]
 black = 0, 0, 0
 white = 255, 255, 255

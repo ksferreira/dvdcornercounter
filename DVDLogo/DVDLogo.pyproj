@@ -5,7 +5,7 @@
     <ProjectGuid>977b2d9a-498f-4f83-9ec4-9c245526426a</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>DVDLogo.pyw</StartupFile>
+    <StartupFile>DVDLogo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DVDLogo.pyw" />
+    <Compile Include="DVDLogo.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="unnamed%281%29.png" />
